@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-# List of approvers
-# Abstract (what is the project about?)
-# UI & UX
-# Architecture changes
-# Network interactions detailed
-# Library dependencies
-# Security concerns
-# Testing & rollout
-# Analytics
-# Customer support considerations
-# Accessibility
+## List of approvers
+## Abstract (what is the project about?)
+## UI & UX
+## Architecture changes
+## Network interactions detailed
+## Library dependencies
+## Security concerns
+## Testing & rollout
+## Analytics
+## Customer support considerations
+## Accessibility

@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-# List of approvers
-# Abstract (what is the project about?)
-# Architecture changes
-# Service SLAs
-# Service dependencies
-# Load & performance testing
-# Multi data-center concerns
-# Security considerations
-# Testing & rollout
-# Metrics & Monitoring
-# Customer support considerations
+## List of approvers
+## Abstract (what is the project about?)
+## Architecture changes
+## Service SLAs
+## Service dependencies
+## Load & performance testing
+## Multi data-center concerns
+## Security considerations
+## Testing & rollout
+## Metrics & Monitoring
+## Customer support considerations
