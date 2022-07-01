@@ -2,7 +2,7 @@
 name: Genegal PRD [Title]
 about: Implementation of general feature
 title: ''
-labels: ''
+labels: documentation
 assignees: ''
 
 ---

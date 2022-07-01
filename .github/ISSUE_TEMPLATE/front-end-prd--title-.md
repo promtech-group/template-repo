@@ -2,7 +2,7 @@
 name: Front end PRD [Title]
 about: Implementation of front enf feature
 title: ''
-labels: ''
+labels: documentation
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: Back end PRD [Title]
 about: Implementation of back end feature
 title: ''
-labels: ''
+labels: documentation
 assignees: ''
 
 ---
